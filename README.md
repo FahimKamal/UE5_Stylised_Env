@@ -17,7 +17,7 @@ The environment is now substantially complete! Add your most compelling final sc
 a GIF, or ideally, the link to your 24-second cinematic video.
 -->
 <p align="center">
-  <img src="<!-- URL_TO_YOUR_BEST_FINAL_SCREENSHOT_OR_GIF -->" alt="Unreal Paradise - Stylized Fantasy Jungle Village Environment" width="80%"/>
+  <img src="https://github.com/user-attachments/assets/2ae82bca-b073-4375-ad33-edc6017f3301" alt="Unreal Paradise - Stylized Fantasy Jungle Village Environment" width="80%"/>
 </p>
 <p align="center">
   <em>A glimpse into the completed Unreal Paradise world. The final 24-second cinematic is ready for submission!</em>
@@ -25,7 +25,9 @@ a GIF, or ideally, the link to your 24-second cinematic video.
 <!-- Example for an embedded YouTube video (once you have it):
 <p align="center">
   <a href="<!-- LINK_TO_YOUR_YOUTUBE_VIDEO -->">
-    <img src="<!-- URL_TO_YOUR_VIDEO_THUMBNAIL -->" alt="Watch the Cinematic Showcase of Unreal Paradise" width="80%">
+
+https://github.com/user-attachments/assets/599cd57e-a8c3-449c-97be-f44aa83bb638
+
   </a>
 </p>
 -->
