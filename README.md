@@ -24,8 +24,10 @@ The 24-second cinematic video is included in the repository.
 </p>
 <p align="center">
   <!-- Attempting to display local video from repository -->
-  ![](Vid.mp4)
+
 </p>
+
+![](Vid.mp4)
 <!-- ====================================================================== -->
 
 ---
