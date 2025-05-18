@@ -30,7 +30,6 @@ https://github.com/user-attachments/assets/599cd57e-a8c3-449c-97be-f44aa83bb638
 
   </a>
 </p>
--->
 <!-- ====================================================================== -->
 
 ---
@@ -82,9 +81,14 @@ Upon successful completion of the "Unreal Engine Fundamentals" course and the wi
 <!-- (Replace placeholders with your best final screenshots from various angles!) -->
 
 <p align="center">
-  <img src="<!-- URL_TO_YOUR_FINAL_SCREENSHOT_1 -->" alt="Final view of Unreal Paradise" width="45%"/>
-  <img src="<!-- URL_TO_YOUR_FINAL_SCREENSHOT_2 -->" alt="Another final view of Unreal Paradise" width="45%"/>
-  <!-- Add more images as needed -->
+  <img src="https://github.com/user-attachments/assets/da957b4b-6837-4f6b-874f-1625876d5ad2" alt="Final view of Unreal Paradise" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/3d5b8193-02aa-46d2-9c9d-0b199d723247" alt="Another final view of Unreal Paradise" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/8b79c2a8-f506-40c7-aeda-751a6b1944a1" alt="Another final view of Unreal Paradise" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/b7439d0c-8326-4d78-9028-c06999dfbf99" alt="Another final view of Unreal Paradise" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/9967c631-633a-48e9-a1ab-7e0d2bdc1ba8" alt="Another final view of Unreal Paradise" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/5ba256f3-d921-4b93-9ca3-3f6e16e31814" alt="Another final view of Unreal Paradise" width="45%"/>
+
+
 </p>
 
 ---
