@@ -24,7 +24,7 @@ a GIF, or ideally, the link to your 24-second cinematic video.
 </p>
 <!-- Example for an embedded YouTube video (once you have it):
 <p align="center">
-  <a href="<!-- LINK_TO_YOUR_YOUTUBE_VIDEO -->">
+  <a href="<!-- LINK_TO_YOUR_YOUTUBE_VIDEO -->
 
 https://github.com/user-attachments/assets/599cd57e-a8c3-449c-97be-f44aa83bb638
 
