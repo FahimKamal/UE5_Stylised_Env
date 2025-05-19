@@ -9,6 +9,7 @@
 
 ---
 
+
 <!--
 ======================================================================
 === VISUAL SHOWCASE ===
@@ -71,7 +72,7 @@ Upon successful completion and grading of the "Unreal Engine Fundamentals" cours
 
 <p align="center">
   <!-- Certificate image/link will be added here upon course completion -->
-  <em>(Certificate will be displayed here once earned and grading is complete)</em>
+  <img src="https://github.com/user-attachments/assets/5db10f84-8d1b-4117-8c6c-c5918f3093a1" alt="Certificate of Completion" width="75%"/>
 </p>
 
 ---
