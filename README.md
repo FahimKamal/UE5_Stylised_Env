@@ -66,7 +66,7 @@ The project fulfills the requirements for the "Unreal Paradise" final assignment
 
 ---
 
-## 📜 Certificate of Completion (Placeholder)
+## 📜 Certificate of Completion
 
 Upon successful completion and grading of the "Unreal Engine Fundamentals" course and the wider "Epic Games Game Design Professional Certificate," my certificate(s) will be showcased here. **Currently awaiting grading.**
 
