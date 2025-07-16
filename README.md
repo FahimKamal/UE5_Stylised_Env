@@ -73,6 +73,12 @@ Upon successful completion and grading of the "Unreal Engine Fundamentals" cours
 <p align="center">
   <!-- Certificate image/link will be added here upon course completion -->
   <img src="https://github.com/user-attachments/assets/5db10f84-8d1b-4117-8c6c-c5918f3093a1" alt="Certificate of Completion" width="75%"/>
+  <br>
+  <em>Certificate of Completion - Unreal Engine Fundamentals.</em>
+  <br>
+  <a href="https://coursera.org/verify/BNSQIJ24P4MI" target="_blank">
+    <strong>Verify Certificate</strong>
+  </a>
 </p>
 
 ---
